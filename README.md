@@ -55,7 +55,7 @@ Certifique-se de que o projeto tenha a seguinte estrutura:
 
 ## Instruções do Dockerfile e o Docker Compose
 
-### Execute o container
+### Execute o contêiner
 
 No diretório onde estão o Dockerfile e o arquivo docker-compose.yml, execute:
 
