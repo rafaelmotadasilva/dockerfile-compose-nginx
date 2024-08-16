@@ -53,7 +53,7 @@ Certifique-se de que o projeto tenha a seguinte estrutura:
     └── index.html
 ```
 
-## Instruções do Dockerfile
+## Instruções do Dockerfile e o Docker Compose
 
 ### Execute o container
 
