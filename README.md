@@ -1,6 +1,6 @@
 <h1>
     <img align="center" width="40px" src="./docker-mark-blue.svg" alt="Docker logo">
-    <span>Criando um Dockerfile para o Nginx</span>
+    <span>Criando um Docker Compose do Nginx</span>
 </h1>
 
 Repositório desenvolvido para fins educativos.
