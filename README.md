@@ -53,10 +53,11 @@ Certifique-se de que o projeto tenha a seguinte estrutura:
     └── index.html
 ```
 
-## Executar o contêiner
+## Instruções do Dockerfile
 
-Com o arquivo criado, execute o seguinte comando no terminal para rodar o contêiner:
+### Execute o container
+
+No diretório onde estão os arquivos, execute:
 
 ```
-docker-compose up -d
-```
+sudo docker-compose up -d
