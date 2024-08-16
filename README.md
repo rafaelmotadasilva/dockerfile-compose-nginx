@@ -57,7 +57,8 @@ Certifique-se de que o projeto tenha a seguinte estrutura:
 
 ### Execute o container
 
-No diretório onde estão os arquivos, execute:
+No diretório onde estão o Dockerfile e o arquivo docker-compose.yml, execute:
 
 ```
 sudo docker-compose up -d
+```
