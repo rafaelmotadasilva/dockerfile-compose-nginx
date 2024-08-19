@@ -23,6 +23,7 @@ Criar e executar o Docker Compose buildando o Dockerfile para realizar as seguin
 
 ```
 FROM nginx
+
 COPY static-html-directory /usr/share/nginx/html/
 EXPOSE 80
 ```
